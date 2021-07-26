@@ -1,5 +1,6 @@
+// ADD YOUR ENV PATH
 require("dotenv").config({
-  path: "C:/Users/Administrator/Documents/Web Dev/Portfolio/FullStack/AdvanceAuth/.env",
+  path: "C:/Users/Administrator/Documents/Web Dev/template/.env",
 });
 
 const express = require("express");
